@@ -24,5 +24,4 @@ void main(){
 
   sanoatMahsuloti1.malumotlar();
   sanoatMahsuloti2.malumotlar();
-
 }
